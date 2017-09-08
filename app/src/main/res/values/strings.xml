@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Android Lab4</string>
+    <string name="number_label">Number</string>
+    <string name="string_label">String</string>
+    <string name="ok">Ok</string>
 </resources>
